@@ -1,0 +1,2 @@
+# Stock-Analysis
+Worked on a project for predicting stock prices. The data was downloaded for the stocks from BSE website. Then using R programming certain function were implemented for performing predictions for the stock prices. After this errors were calculated. Then the stock having least error was predicted as the best possible choice for investment. All this content was then displayed as a web app via Shiny Framework.
